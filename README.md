@@ -2,6 +2,13 @@
 
 I'm Manuel, a Data Scientist and Aerospace Engineer. 👨‍💻
 
+## 🎉 Featured Project
+<a href="https://github.com/manurba/FaceMaskDetection"><br>
+Real Time Face Mask Detection Project
+</a>
+
+![](https://github.com/manurba/FaceMaskDetection/blob/main/output/Test30fpsSmoothed.gif)
+
 ## 🚀 Technologies
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
