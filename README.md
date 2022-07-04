@@ -49,6 +49,6 @@ Find me on LinkedIn to know more about my career!
 
 ## 👀 Profile Visits
 
-<a href="#"><img src="https://badges.pufler.dev/visits/manurba/manurba?&style=for-the-badge"></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=manurba&style=for-the-badge"></a>
 
 Thank you for your visit!
